@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chandana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Chandana</h1>
+<h3 align="center">A philomath and a passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu6111&label=Profile%20views&color=0e75b6&style=flat" alt="chandu6111" /> </p>
 
@@ -7,24 +7,25 @@
 
 - 🌱 I’m currently learning **Django, React JS**
 
-- 👨‍💻 All of my projects are available at [https://chandu6111.github.io/resume_website_using_bootstrap/](https://chandu6111.github.io/resume_website_using_bootstrap/)
+- 👨‍💻 All of my projects are available in my [Github Profile](https://github.com/chandu6111)
 
 - 📫 How to reach me **dvs6112001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GTuHrRuLqvaAf0xuzJzBea3d5K_jg2Bq/view?usp=sharing](https://drive.google.com/file/d/1GTuHrRuLqvaAf0xuzJzBea3d5K_jg2Bq/view?usp=sharing)
+- 📄 Wanna Know about my experiences? [Have a look at my Resume](https://drive.google.com/file/d/1GTuHrRuLqvaAf0xuzJzBea3d5K_jg2Bq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/chandu_6111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="chandu_6111" height="30" width="40" /></a>
-<a href="https://twitter.com/chandu_dvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="chandu_dvs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dvs-chandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dvs-chandana" height="30" width="40" /></a>
-<a href="https://kaggle.com/chandu6111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="chandu6111" height="30" width="40" /></a>
-<a href="https://instagram.com/chandu_dvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="chandu_dvs" height="30" width="40" /></a>
+<a href="https://codepen.io/chandu_6111" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/codepen.svg" alt="chandu_6111" height="30" width="40" /></a>
+<a href="https://twitter.com/chandu_dvs" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="chandu_dvs" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dvs-chandana" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="dvs-chandana" height="30" width="40" /></a>
+<a href="https://kaggle.com/chandu6111" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/kaggle.svg" alt="chandu6111" height="30" width="40" /></a>
+<a href="https://instagram.com/chandu_dvs" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" alt="chandu_dvs" height="30" width="40" /></a>
+<a href="https://github.com/chandu6111" target="_blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="chandu6111" height="30" width="40"/></a>
 <a href="https://www.codechef.com/users/chandu_6111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="chandu_6111" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dvs6112001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="dvs6112001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dvs6112001" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" alt="dvs6112001" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chandu_6111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="chandu_6111" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chandu_6111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="chandu_6111" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@damarla4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerearth.svg" alt="@damarla4" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/chandu_6111" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" alt="chandu_6111" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@damarla4" target="blank"><img align="center" src="https://github.com/chandu6111/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerearth.svg" alt="@damarla4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
