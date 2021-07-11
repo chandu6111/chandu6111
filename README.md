@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **Django, React JS**
+- 🌱 I’m currently learning **React JS, Node JS, Express JS and MongoDB**
 
 - 👨‍💻 All of my projects are available in my [Github Profile](https://github.com/chandu6111)
 
